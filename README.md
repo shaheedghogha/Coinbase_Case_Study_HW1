@@ -30,7 +30,7 @@ Coinbase's IT infrastructure currently leverages AWS services for Amazon Identit
 
 Coinbase also leverages Google Analytics, Mixpanel, Authy, HackerOne, and Blockscore. From a DevOps perspective, Coinbase uses New Relic, CircleCI, Bugsnag, and GeoEngineer. Coinbase business tools include G-Suite and Olark. Coinbase internal applications for use include NGINX, CloudFlare, Ruby, Rails, D3.js, and IronMX.
 
-## **Landscape:**
+## **Landscape**
 
 Coinbase falls into the Blockchain and Cryptocurrencies domain of the financial industry. Mainstream adoption of blockchain and cryptocurrencies has grown exponentially since the inception of Bitcoin. In particular, decentralized finance (DeFi) has captured significant attention and investor capital from both institutional and retail investors. DeFi aims to disintermediate financial services to increase inclusivity and adoption across the banked and unbanked, similar to Coinbase's mission of bringing cryptocurrency services to the masses. 
 
